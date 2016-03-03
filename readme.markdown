@@ -1,5 +1,5 @@
 # Longest path problem visualised
 
-More info on wikipedia: [wikipedia](http://en.wikipedia.org/wiki/Longest_path_problem "Longest path problem")
+In graph theory and theoretical computer science, the longest path problem is the problem of finding a simple path of maximum length in a given graph. A path is called simple if it does not have any repeated vertices; the length of a path may either be measured by its number of edges, or (in weighted graphs) by the sum of the weights of its edges. In contrast to the shortest path problem, which can be solved in polynomial time in graphs without negative-weight cycles, the longest path problem is NP-hard, meaning that it cannot be solved in polynomial time for arbitrary graphs unless P = NP. Stronger hardness results are also known showing that it is difficult to approximate. However, it has a linear time solution for directed acyclic graphs, which has important applications in finding the critical path in scheduling problems.
 
 ![Graph](http://i.imgur.com/XnMPp.jpg)
